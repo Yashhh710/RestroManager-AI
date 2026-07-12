@@ -1,7 +1,7 @@
 # 🍽️ RestroManager AI
 
 <p align="center">
-  <img src="YOUR_PREVIEW_IMAGE_URL" alt="RestroManager AI Preview" width="100%">
+  <img width="1916" height="1079" alt="Image" src="https://github.com/user-attachments/assets/9205670b-40fa-42ae-9836-1ad0dee68582" />
 </p>
 
 <p align="center">
@@ -21,12 +21,12 @@
 ## 🚀 Live Demo
 
 🔗 **Live Website:**
-YOUR_LIVE_URL
+[LIVE_URL](https://restro-manager-ai.vercel.app/)
 
 ## 📂 Repository
 
 🔗 **GitHub Repository:**
-YOUR_GITHUB_URL
+[GITHUB_URL](https://github.com/Yashhh710/RestroManager-AI)
 
 ---
 
